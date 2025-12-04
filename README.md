@@ -1,7 +1,7 @@
 # libcolor
 A small and simple library for writing colored text in Unix/Windows Bash.
 # USE
-Example code 
+Example code:
 ```c
 #include "color.h"
 
